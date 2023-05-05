@@ -8,4 +8,14 @@ Instacart is an online grocery store that operates through an app.  Instacart ha
 
 # Data
 
-Open source data available from Instacart for the year 2017.  The link to the dataset is [here.](https://www.instacart.com/datasets/grocery-shopping-2017).
+The data was open source and made available by Instacart on their website in 2017.  The link to the dataset is [here.](https://www.instacart.com/datasets/grocery-shopping-2017).
+
+
+# Libraries
+
+The following librarires were used with python:
+* pandas
+* numpy
+* seaborn
+* matplotlib
+* scipy
