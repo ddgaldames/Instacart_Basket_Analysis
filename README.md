@@ -8,3 +8,4 @@ Instacart is an online grocery store that operates through an app.  Instacart ha
 
 # Data
 
+Open source data available from Instacart for the year 2017.  The link to the dataset is here.
