@@ -1,4 +1,4 @@
-# To determine the least successful actor/actress, I used the folloiwng query:
+To determine the least successful actor/actress, I used the folloiwng query:
 
 SELECT E.first_name, E.last_name, COUNT(DISTINCT B.rental_id) AS number_of_rentals, SUM(amount) AS total_revenue											
 FROM payment A
