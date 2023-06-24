@@ -19,8 +19,3 @@ The following python libraries were used in this achievement:
 * seaborn
 * matplotlib
 * scipy
-
-
-# Final Presentation
-
-Here is a link to the [Tableau Storyboard.](https://public.tableau.com/app/profile/david.galdames/viz/CustomerChurnStoryboard/Customerchurn?publish=yes)
