@@ -13,7 +13,7 @@ The data was open source and made available by Instacart on their website in 201
 
 # Libraries
 
-The following librarires were used with python:
+The following python libraries were used in this achievement:
 * pandas
 * numpy
 * seaborn
