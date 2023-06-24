@@ -8,7 +8,7 @@ Instacart is an online grocery store that operates through an app.  Instacart ha
 
 # Data
 
-The data was open source and made available by Instacart on their website in 2017.  The link to the dataset is [here.](https://www.instacart.com/datasets/grocery-shopping-2017).
+The data was open source and made available by Instacart on their website in 2017.  The link to the dataset is [here.](https://www.instacart.com/datasets/grocery-shopping-2017)
 
 
 # Libraries
@@ -19,3 +19,8 @@ The following python libraries were used in this achievement:
 * seaborn
 * matplotlib
 * scipy
+
+
+# Final Presentation
+
+Here is a link to the [Tableau Storyboard.](https://public.tableau.com/app/profile/david.galdames/viz/CustomerChurnStoryboard/Customerchurn?publish=yes)
